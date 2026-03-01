@@ -5,4 +5,4 @@
 
 ${\color{lightblue}          yo \space fav \space racer \space on \space the \space track}$
 
-       <a href="https://discordid.netlify.app/?id=873902369354706945">DISCORD</a>
+       <a href="https://rentry.co/n1teb0i">rentry</a>
