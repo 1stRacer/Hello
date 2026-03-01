@@ -4,3 +4,5 @@ ${\color{lightblue}          yo \space fav \space racer 
 
 
        <a href="https://rentry.co/n1teb0i">rentry</a>  <a href="https://lovinglycarrots.atabook.org">atabook</a>  <a href="https://guns.lol/lovinglycarrotz">guns.lol</a>
+
+<img align="center" width="40" height="40" src="https://files.catbox.moe/ly0vez.webp">
